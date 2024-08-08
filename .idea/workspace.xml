@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32f30238-0adb-4a06-bd20-add46aed145a" name="Changes" comment="buble sort">
-      <change afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
+    <list default="true" id="32f30238-0adb-4a06-bd20-add46aed145a" name="Changes" comment="insertionSort">
       <change afterPath="$PROJECT_DIR$/src/SelectionSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BubleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BubleSort.java" afterDir="false" />
@@ -87,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723128599448</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="insertionSort">
+      <option name="closed" value="true" />
+      <created>1723133238937</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723133238937</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +138,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="merge sort" />
     <MESSAGE value="buble sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="buble sort" />
+    <MESSAGE value="insertionSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="insertionSort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

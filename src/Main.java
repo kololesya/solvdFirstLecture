@@ -2,11 +2,13 @@ import java.util.Arrays;
 
 public class Main {
     public static void main(String[] args) {
-        String[] array = {"Azad", "Hanna", "Filip", "Aleksandr"};
+        String[] arrayMergeSort = {"Azad", "Hanna", "Filip", "Aleksandr"};
 
-        MergeSort.mergeSort(array);
+        MergeSort.mergeSort(arrayMergeSort);
+        System.out.println(Arrays.toString(arrayMergeSort));
 
-        System.out.println(Arrays.toString(array));
-
+        String[] arrayBubleSort = {"Hlib", "Kevin", "Hubert", "Maksymilian"};
+        BubleSort.bubleSort(arrayBubleSort);
+        System.out.println(Arrays.toString(arrayBubleSort));
     }
 }
